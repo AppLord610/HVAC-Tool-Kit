@@ -1,0 +1,13 @@
+{
+  "background_color": "#0c24ce",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chilled Water Calcs",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CWC",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "1892",
+  "description": "Chilled Water Calcs"
+}
