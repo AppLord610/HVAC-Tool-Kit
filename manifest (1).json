@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "Chilled Water Calcs",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/hvac-tool-kit/",
   "short_name": "CWC",
-  "start_url": "/",
+  "start_url": "/hvac-tool-kit/",
   "theme_color": "#ffffff",
   "id": "1892",
   "description": "Chilled Water Calcs"
